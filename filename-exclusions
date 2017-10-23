@@ -1,3 +1,72 @@
+*recover_instructions.txt
+*restore_fi*.*
+*ukr.net*
+*want%syour%sfiles%sback.*
+_how_recover.txt
+_locky_recover_instructions.txt
+_secret_code.txt
+coin.locker.txt
+confirmation.key
+cryptolocker.*
+decrypt_help.*
+decrypt_instruct*.*
+decrypt_instruction.txt
+decrypt_instructions.txt
+decrypt_readme.txt
+decryptallfiles.txt
+djqfu*.*
+enc_files.txt
+filesaregone.txt
+hellothere.txt
+help_decrypt*.*
+help_decrypt.txt
+help_recover*.*
+help_recover_instructions+*.txt
+help_restore*.*
+help_to_decrypt_your_files.txt
+help_to_save_files.txt
+help_your_file*.*
+help_your_files.*
+helpdecrypt*.*
+how%sto%sdecrypt*.*
+how_decrypt*.*
+how_recover*.*
+how_to_decrypt*.*
+how_to_decrypt_files.txt
+how_to_recover*.*
+how_to_recover_files.txt
+howrecover+*.txt
+howto_recover_file.txt
+howto_restore*.*
+howto_restore_file*.*
+howto_restore_files.txt
+howtodecrypt*.*
+howtorestore*.txt
+iamreadytopay.txt
+ihaveyoursecret.key
+install_tor*.*
+instructions_xxxx.png
+last_chance.*
+message.txt
+readdecryptfileshere.txt
+readme_decrypt*.*
+readme_for_decrypt*.*
+readthisnow!!!.txt
+recoverfile*.txt
+recovery_file*.txt
+recovery_file.txt
+recovery_files.txt
+recovery_key.txt
+recoveryfile*.txt
+restore_fi.*
+restorefiles.txt
+secret.key
+secretidhere.key
+vault.hta
+vault.key
+vault.txt
+your_files.html
+your_files.url
 !!! For Decrypt !!!.bat
 !!! HOW TO DECRYPT FILES !!!.txt
 !!! Readme For Decrypt !!!.txt
@@ -90,6 +159,7 @@ DecryptFile.txt
 Decrypted.txt
 DesktopOSIRIS.*
 Digisom Readme?.txt
+FILESAREGONE.TXT
 FILES_BACK.txt
 FILES_ENCRYPTED-READ_ME.HTML
 File Decrypt Help.html
@@ -98,8 +168,10 @@ HELP-ME-ENCED-FILES.html
 HELP_ME_PLEASE.txt
 HELP_RECOVER_FILES.txt
 HELP_RESTORE_FILES_*
+HELP_TO_DECRYPT_YOUR_FILES.txt
 HELP_TO_SAVE_FILES.*
 HELP_YOURFILES.HTML
+HELP_YOUR_FILES.*
 HOW TO DECODE FILES!!!.txt
 HOW-TO-DECRYPT-FILES.HTML
 HOWTO_RECOVER_FILES_*
@@ -119,7 +191,9 @@ HowDecrypt.*
 How_Decrypt_My_Files.*
 How_to_restore_files.*
 HowtoRESTORE_FILES.txt
+IAMREADYTOPAY.TXT
 IF_WANT_FILES_BACK_PLS_READ.html
+IHAVEYOURSECRET.KEY
 IMPORTANT.README
 INSTRUCTION RESTORE FILE.TXT
 INSTRUCTIONS_*.png
@@ -144,15 +218,20 @@ README_DECRYPT_UMBRE*
 README_HOW_TO_UNLOCK.*
 README_RECOVER_FILES_*
 README_TO_RECURE_YOUR_FILES.txt
+READTHISNOW!!!.TXT
 READ_IT.txt
 READ_THIS_TO_DECRYPT.html
+RECOVERY_FILE*.TXT
 RECOVERY_FILES*.txt
 RESTORE_ALL_DATA.html
 RESTORE_CORUPTED_FILES.HTML
 RESTORE_FILES_*
 Rans0m_N0te_Read_ME.txt
 Read Me (How Decrypt) !!!!.txt
+ReadDecryptFilesHere.txt
 ReadMeFilesDecrypt!!!.txt
+SECRET.KEY
+SECRETIDHERE.KEY
 SHTODELATVAM.txt
 Sarah_G@ausi.com___*
 TRY-READ-ME-TO-DEC.html
@@ -168,6 +247,8 @@ WHERE-YOUR-FILES.html
 What happen to my files.txt
 YOUGOTHACKED.TXT
 YOUR FILES ARE ENCRYPTED!.txt
+YOUR_FILES.HTML
+YOUR_FILES.url
 YOUR_FILES_ARE_DEAD.HTA
 YOUR_FILES_ARE_ENCRYPTED.*
 YOUR_FILES_ARE_LOCKED*.txt
@@ -262,45 +343,3 @@ unlock-everybody.txt
 where_are_your_files.txt
 winclwp.jpg
 xort.txt
-*recover_instructions.txt
-*restore_fi*.*
-*ukr.net*
-*want%syour%sfiles%sback.*
-_how_recover.txt
-_locky_recover_instructions.txt
-coin.locker.txt
-decrypt_instruct*.*
-decrypt_instruction.txt
-decrypt_instructions.txt
-decrypt_readme.txt
-decryptallfiles.txt
-djqfu*.*
-help_decrypt.txt
-help_recover*.*
-help_recover_instructions+*.txt
-help_to_save_files.txt
-help_your_file*.*
-helpdecrypt*.*
-how%sto%sdecrypt*.*
-how_decrypt*.*
-how_recover*.*
-how_to_decrypt*.*
-how_to_decrypt_files.txt
-how_to_recover*.*
-how_to_recover_files.txt
-howrecover+*.txt
-howto_restore*.*
-howto_restore_file*.*
-howto_restore_files.txt
-howtodecrypt*.*
-howtorestore*.txt
-instructions_xxxx.png
-message.txt
-readme_decrypt*.*
-readme_for_decrypt*.*
-recoverfile*.txt
-recovery_file.txt
-recovery_files.txt
-recovery_key.txt
-recoveryfile*.txt
-restore_fi.*
